@@ -1,16 +1,17 @@
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bcakyz-io&layout=compact" align="right">][stats]
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bcakyz-io&layout=compact" align="left">][stats]
+
+**Contents**
 
 
-#### Contents
-[<img width="35" src="image/icon.png" />][youtube]
-[<img  width="35" src="https://api.iconify.design/mdi/dev-to.svg?width=35&height=35" />][dev]
-[<img width="38" src="image/qt.png" />][youtube1]
+[<img width="25" src="image/icon.png" align="center" />][youtube]
+[<img  width="25" src="https://api.iconify.design/mdi/dev-to.svg?width=25&height=25" align="center" />][dev]
+[<img width="25" src="image/qt.png" align="center" />][youtube1]
 
-#### Social Media
+**Social Media**
 
-[<img  width="35" src="https://img.icons8.com/color/344/twitter--v1.png" align="left" />][twitter]
-[<img  width="35" src="https://img.icons8.com/color/344/linkedin.png" align="left" />][linkedin]
-[<img  width="35" src="https://img.icons8.com/fluency/344/instagram-new.png" align="left" />][instagram]
+[<img  width="25" src="https://img.icons8.com/color/344/twitter--v1.png" align="center" />][twitter]
+[<img  width="25" src="https://img.icons8.com/color/344/linkedin.png" align="center" />][linkedin]
+[<img  width="25" src="https://img.icons8.com/fluency/344/instagram-new.png" align="center" />][instagram]
 
 [instagram]: https://instagram.com/bcakyz
 [stats]: https://github.com/bcakyz-io/github-readme-stats

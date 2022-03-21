@@ -1,13 +1,11 @@
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bcakyz-io&layout=compact" align="left">][stats]
-
-**Contents**
-
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bcakyz-io&layout=compact" align="right">][stats]
+##### Contents
 
 [<img width="25" src="image/icon.png" align="center" />][youtube]
 [<img  width="25" src="https://api.iconify.design/mdi/dev-to.svg?width=25&height=25" align="center" />][dev]
 [<img width="25" src="image/qt.png" align="center" />][youtube1]
 
-**Social Media**
+##### Social Media
 
 [<img  width="25" src="https://img.icons8.com/color/344/twitter--v1.png" align="center" />][twitter]
 [<img  width="25" src="https://img.icons8.com/color/344/linkedin.png" align="center" />][linkedin]

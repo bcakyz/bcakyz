@@ -1,4 +1,4 @@
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bcakyz-io&layout=compact" align="right">][stats]
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bcakyz&layout=compact" align="right">][stats]
 
 ## :zap: Hi I'm Bekircan
 

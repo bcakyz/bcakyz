@@ -1,4 +1,4 @@
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bcakyz&layout=compact" align="right">][stats]
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bcakyz&layout=compact" align="right">
 
 ## :zap: Hi I'm Bekircan
 
@@ -15,7 +15,7 @@
 [<img  width="25" src="https://img.icons8.com/fluency/344/instagram-new.png" align="center" />][instagram]
 
 [instagram]: https://instagram.com/bcakyz
-[stats]: https://github.com/bcakyz-io/github-readme-stats
+[stats]: https://github.com/bcakyz/github-readme-stats
 [youtube]: https://www.youtube.com/channel/UC1zMk21kyHPVGEx0zK2_Mnw
 [youtube1]: https://www.youtube.com/channel/UCRVxTLAPYHA3hK4nkAahtpg
 [twitter]: https://twitter.com/bcakyz

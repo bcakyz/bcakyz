@@ -1,11 +1,12 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bcakyz&layout=compact" align="right">
 
 
+<div align="left">
+
 <h3>Hi, this is Bekircan Akyuz.</h3> 
 
 - 💻 I am passionate about coding and learning new technologies.
 - 🏤 I have experienced in projects developed with Python and JavaScript.
-- 📌 I developed next side projects with Python.
 - 🌱 I’m currently learning JavaScript, React and CSS.
 - 📑 [My career journey](https://www.linkedin.com/in/bcakyz/) 
 - 🚀 [Open source projects I've done so far](https://github.com/bcakyz?tab=repositories)
@@ -43,3 +44,5 @@
 [twitter]: https://twitter.com/bcakyz
 [linkedin]: https://www.linkedin.com/in/bcakyz
 [dev]: https://dev.to/bcakyz
+
+</div>

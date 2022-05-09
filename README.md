@@ -1,9 +1,10 @@
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bcakyz&layout=compact" align="right">
+<img align="right" width="500" src="https://media0.giphy.com/media/VbDqmJbxaeYCoM92Ow/giphy.gif?cid=790b7611b01cd1735c12b46ca0d450a660dedcff344f8165&rid=giphy.gif&ct=g">
+
 
 
 <div align="left">
 
-<h3>Hi, this is Bekircan Akyuz.</h3> 
+**<h3>Hi, this is Bekircan Akyuz. ⚡️ </h3>**
 
 - 💻 I am passionate about coding and learning new technologies.
 - 🏤 I have experienced in projects developed with Python and JavaScript.
@@ -11,8 +12,18 @@
 - 📑 [My career journey](https://www.linkedin.com/in/bcakyz/) 
 - 🚀 [Open source projects I've done so far](https://github.com/bcakyz?tab=repositories)
 
-<h3>My Workspace</h3>
-<p align="center">
+<br>
+<br>
+<br>
+
+### __**My Workspace**__
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bcakyz&layout=compact" align="right">
+
+
+<p>
   <img src="https://img.shields.io/badge/HTML5-555554?style=for-the-badge&logo=html5&logoColor" />
   <img src="https://img.shields.io/badge/CSS3-555554?style=for-the-badge&logo=css3&logoColor" />
   <img src="https://img.shields.io/badge/JavaScript-555554?style=for-the-badge&logo=javascript&logoColor" />
@@ -20,9 +31,9 @@
   <img src="https://img.shields.io/badge/Swift-555554?style=for-the-badge&logo=swift&logoColor" />
   <br>
   <img src="https://img.shields.io/badge/React-3B3C3F?style=for-the-badge&logo=react&logoColor" />
-  <img src="https://img.shields.io/badge/Nextjs-3B3C3F?style=for-the-badge&logo=next.js&logoColor=#61DAFB" />
-  <img src="https://img.shields.io/badge/vuejs-3B3C3F?style=for-the-badge&logo=vue.js&logoColor=#61DAFB" />
-  <img src="https://img.shields.io/badge/Nuxtjs-3B3C3F?style=for-the-badge&logo=nuxt.js&logoColor=#61DAFB" />
+  <img src="https://img.shields.io/badge/Nextjs-3B3C3F?style=for-the-badge&logo=next.js&logoColor" />
+  <img src="https://img.shields.io/badge/vuejs-3B3C3F?style=for-the-badge&logo=vue.js&logoColor" />
+  <img src="https://img.shields.io/badge/Nuxtjs-3B3C3F?style=for-the-badge&logo=nuxt.js&logoColor" />
   <br>
   <img src="https://img.shields.io/badge/Nodejs-2E3035?style=for-the-badge&logo=node.js&logoColor" />
   <img src="https://img.shields.io/badge/expressjs-2E3035?style=for-the-badge&logo=express&logoColor" />
@@ -32,7 +43,7 @@
   <img src="https://img.shields.io/badge/Qiskit-20232A?style=for-the-badge&logo=Qiskit&logoColor" />
 </p>
   
-<h3>Contact me</h3>
+**<h3>Contact me</h3>**
 
 [<img align="left" alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor" />][linkedin]
 [<img align="left" alt="dev" src="https://img.shields.io/badge/dev-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor" />][dev]

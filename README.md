@@ -33,7 +33,6 @@
   <img src="https://img.shields.io/badge/Nextjs-3B3C3F?style=for-the-badge&logo=next.js&logoColor" />
   <img src="https://img.shields.io/badge/vuejs-3B3C3F?style=for-the-badge&logo=vue.js&logoColor" />
   <img src="https://img.shields.io/badge/Nuxtjs-3B3C3F?style=for-the-badge&logo=nuxt.js&logoColor" />
-  <img src="https://img.shields.io/badge/electronjs-3B3C3F?style=for-the-badge&logo=electron.js&logoColor" />
   <br>
   <img src="https://img.shields.io/badge/Nodejs-2E3035?style=for-the-badge&logo=node.js&logoColor" />
   <img src="https://img.shields.io/badge/expressjs-2E3035?style=for-the-badge&logo=express&logoColor" />

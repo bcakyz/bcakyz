@@ -21,7 +21,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bcakyz&layout=compact" align="right">
 
-
 <p>
   <img src="https://img.shields.io/badge/HTML5-555554?style=for-the-badge&logo=html5&logoColor" />
   <img src="https://img.shields.io/badge/CSS3-555554?style=for-the-badge&logo=css3&logoColor" />

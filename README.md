@@ -19,7 +19,7 @@
 
 <br>
 
-<img href="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" align="right">
+<img href="https://github-readme-stats.vercel.app/api/top-langs/?username=bcakyz&layout=compact" align="right">
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-555554?style=for-the-badge&logo=html5&logoColor" />

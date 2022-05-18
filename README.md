@@ -19,7 +19,7 @@
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bcakyz&layout=compact" align="right">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bcakyz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-555554?style=for-the-badge&logo=html5&logoColor" />

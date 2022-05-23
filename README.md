@@ -18,7 +18,7 @@
 ### __**My Workspace**__
 
 <br>
-<img align="right" width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bcakyz&layout=compact">
+<img align="left" width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bcakyz&layout=compact">
   
   
 <p>

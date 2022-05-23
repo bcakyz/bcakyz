@@ -1,4 +1,4 @@
-<img align="right" width="320" src="https://i.giphy.com/media/ApqHO90edYLlTn3s2H/giphy.webp">
+<img align="right" width="340" src="https://i.giphy.com/media/ApqHO90edYLlTn3s2H/giphy.webp">
 
 
 
@@ -18,7 +18,7 @@
 ### __**My Workspace**__
 
 <br>
-<img align="left" width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bcakyz&layout=compact">
+<img align="right" width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bcakyz&layout=compact">
   
   
 <p>

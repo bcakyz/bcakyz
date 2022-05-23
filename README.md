@@ -1,4 +1,4 @@
-<img align="right" width="260" src="https://i.giphy.com/media/ApqHO90edYLlTn3s2H/giphy.webp">
+<img align="right" width="320" src="https://i.giphy.com/media/ApqHO90edYLlTn3s2H/giphy.webp">
 
 
 
@@ -19,8 +19,8 @@
 
 <br>
 
-<img href="https://github-readme-stats.vercel.app/api/top-langs/?username=bcakyz&layout=compact" align="right">
-
+![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=bcakyz&layout=compact)
+  
 <p>
   <img src="https://img.shields.io/badge/HTML5-555554?style=for-the-badge&logo=html5&logoColor" />
   <img src="https://img.shields.io/badge/CSS3-555554?style=for-the-badge&logo=css3&logoColor" />

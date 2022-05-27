@@ -38,7 +38,8 @@
   
 <br>
 
-  <img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bcakyz&layout=compact">
+  ![](https://raw.githubusercontent.com/bcakyz/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+  ![](https://raw.githubusercontent.com/bcakyz/github-stats/master/generated/overview.svg#gh-light-mode-only)
   
 <br>
 

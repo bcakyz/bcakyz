@@ -26,9 +26,6 @@
 
 <img align="right" width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=bcakyz&show_icons=true&locale=en&layout=compact" alt="bcakyz" />
 
-<br>
-<br>
-
 <div align="left">
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img height="24" src="https://img.shields.io/badge/HTML5-555554?style=for-the-badge&logo=html5&logoColor" /></a>

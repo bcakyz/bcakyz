@@ -13,12 +13,11 @@
 - 🚀 [Open source projects I've done so far](https://github.com/bcakyz?tab=repositories)
 
 <br>
+<br>
   
 ### __**My Workspace**__
   
 <img align="right" width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bcakyz&layout=compact">
-
-<br>
   
 <p>
   <img src="https://img.shields.io/badge/HTML5-555554?style=for-the-badge&logo=html5&logoColor" />

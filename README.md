@@ -13,9 +13,6 @@
 - 🚀 [Open source projects I've done so far](https://github.com/bcakyz?tab=repositories)
 
 <br>
-<br>
-<br>
-<br>
   
 ### __**My Workspace**__
   

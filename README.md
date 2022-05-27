@@ -1,4 +1,4 @@
-<img align="right" width="325" src="https://i.giphy.com/media/ApqHO90edYLlTn3s2H/giphy.webp">
+<img align="right" width="400" src="https://i.giphy.com/media/ApqHO90edYLlTn3s2H/giphy.webp">
 
 
 
@@ -12,15 +12,10 @@
 - 📑 [My career journey](https://www.linkedin.com/in/bcakyz/) 
 - 🚀 [Open source projects I've done so far](https://github.com/bcakyz?tab=repositories)
 
-<br>
-
-  <img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bcakyz&layout=compact">
+  <br>
   
-<br>
-  
+    
 ### __**My Workspace**__
-  
-
   
 <p>
   <img src="https://img.shields.io/badge/HTML5-555554?style=for-the-badge&logo=html5&logoColor" />
@@ -41,6 +36,14 @@
   <img src="https://img.shields.io/badge/Jupyter-20232A?style=for-the-badge&logo=jupyter&logoColor" />
   <img src="https://img.shields.io/badge/Qiskit-20232A?style=for-the-badge&logo=Qiskit&logoColor" />
 </p>
+  
+  
+<br>
+
+  <img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bcakyz&layout=compact">
+  
+<br>
+
   
 **<h3>Contact me</h3>**
 

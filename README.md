@@ -12,9 +12,8 @@
 - 📑 [My career journey](https://www.linkedin.com/in/bcakyz/) 
 - 🚀 [Open source projects I've done so far](https://github.com/bcakyz?tab=repositories)
 
-  <br>
+<br>
   
-    
 ### __**My Workspace**__
   
 <p>
@@ -36,7 +35,6 @@
   <img src="https://img.shields.io/badge/Jupyter-20232A?style=for-the-badge&logo=jupyter&logoColor" />
   <img src="https://img.shields.io/badge/Qiskit-20232A?style=for-the-badge&logo=Qiskit&logoColor" />
 </p>
-  
   
 <br>
 

@@ -1,4 +1,4 @@
-<img align="right" width="325" src="https://i.giphy.com/media/ApqHO90edYLlTn3s2H/giphy.webp">
+<img align="right" width="360" src="https://i.giphy.com/media/ApqHO90edYLlTn3s2H/giphy.webp">
 
 
 <h2 align="center">Hi 👋, I'm Bekircan Akyuz</h2>
@@ -24,7 +24,7 @@
 
 ---
 
-<img align="right" width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=bcakyz&show_icons=true&locale=en&layout=compact" alt="bcakyz" />
+<img align="right" width="360" src="https://github-readme-stats.vercel.app/api/top-langs?username=bcakyz&show_icons=true&locale=en&layout=compact" alt="bcakyz" />
 
 <div align="left">
 <p align="center">

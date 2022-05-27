@@ -1,7 +1,7 @@
 <img align="right" width="325" src="https://i.giphy.com/media/ApqHO90edYLlTn3s2H/giphy.webp">
 
 
-<h1 align="center">Hi 👋, I'm Bekircan Akyuz</h1>
+<h2 align="center">Hi 👋, I'm Bekircan Akyuz</h2>
 
 - 💻 I am passionate about coding and learning new technologies.
 - 🏤 I have experienced in projects developed with Python and JavaScript.
@@ -14,13 +14,17 @@
 <div align="left">
 <img src="https://komarev.com/ghpvc/?username=bcakyz&label=Profile%20views&color=0e75b6&style=flat" alt="bcakyz" />
 <a href="https://twitter.com/bcakyz" target="blank"><img src="https://img.shields.io/twitter/follow/bcakyz?logo=twitter&style=flat" alt="bcakyz" /></a>
+<a href="https://www.buymeacoffee.com/bcakyz"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="bcakyz" height="20" /></a>
 </div>
 
 <br>
 <br>
-<br><br>
+<br>
+<br>
 
-<div align="center">
+<img align="right" width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=bcakyz&show_icons=true&locale=en&layout=compact" alt="bcakyz" />
+
+<div align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-555554?style=for-the-badge&logo=html5&logoColor" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-555554?style=for-the-badge&logo=css3&logoColor" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-555554?style=for-the-badge&logo=javascript&logoColor" /></a>
@@ -53,11 +57,6 @@
 
 <br>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bcakyz&show_icons=true&locale=en&layout=compact" alt="bcakyz" />
-
-
-<h4 align="right">Support:</h4>
-<a href="https://www.buymeacoffee.com/bcakyz"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bcakyz" /></a>
 
 
 

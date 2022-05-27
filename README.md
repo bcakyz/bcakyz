@@ -38,8 +38,7 @@
   
 <br>
 
-  ![](https://raw.githubusercontent.com/bcakyz/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-  ![](https://raw.githubusercontent.com/bcakyz/github-stats/master/generated/overview.svg#gh-light-mode-only)
+<img width src="https://github.com/bcakyz/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
   
 <br>
 

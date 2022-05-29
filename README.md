@@ -53,6 +53,7 @@
   <a href="https://pandas.pydata.org/"><img height="24" src="https://img.shields.io/badge/pandas-20232A?style=for-the-badge&logo=pandas&logoColor" /></a>
   <a href="https://www.tensorflow.org/"><img height="24" src="https://img.shields.io/badge/tensorflow-20232A?style=for-the-badge&logo=tensorflow&logoColor" /></a>
   <a href="https://webpack.js.org/"><img height="24" src="https://img.shields.io/badge/webpack-20232A?style=for-the-badge&logo=webpack&logoColor" /></a>
+  <a href="https://numpy.org/"><img height="24" src="https://img.shields.io/badge/numpy-20232A?style=for-the-badge&logo=numpy&logoColor" /></a>
 </p>
 
 </div>

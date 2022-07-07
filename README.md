@@ -15,6 +15,10 @@
 <img src="https://komarev.com/ghpvc/?username=bcakyz&label=Profile%20views&color=0e75b6&style=flat" alt="bcakyz" />
 <a href="https://twitter.com/bcakyz" target="blank"><img src="https://img.shields.io/twitter/follow/bcakyz?logo=twitter&style=flat" alt="bcakyz" /></a>
 <a href="https://www.buymeacoffee.com/bcakyz"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="bcakyz" height="20" /></a>
+<br>
+<a href="https://www.linkedin.com/in/bcakyz/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:hello@bcakyz.com?subject=Hello, Bekircan"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+
 </div>
 
 <br>
